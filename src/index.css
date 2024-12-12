@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.tabulator .tabulator-header {
+    background-color: #f3f4f6; /* Light gray */
+  }
+  .tabulator .tabulator-row {
+    background-color: #ffffff; /* White for rows */
+  }
+  
